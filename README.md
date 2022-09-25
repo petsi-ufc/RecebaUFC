@@ -2,6 +2,44 @@
 
 Neste projeto, os bolsistas do PET-SI organizam uma recepção para os alunos do ensino médio que querem conhecer o funcionamento da UFC - Campus de Quixadá.
 
+***
+### EEEP Edson Queiroz
+
+![](./EEEP_Edson_Queiroz/1.jpeg)
+
+![](./EEEP_Edson_Queiroz/2.jpeg)
+
+![](./EEEP_Edson_Queiroz/3.jpeg)
+
+![](./EEEP_Edson_Queiroz/4.jpeg)
+
+![](./EEEP_Edson_Queiroz/5.jpeg)
+
+
+
+
+
+***
+### EEEP Raimundo Célio Rodrigues
+**Data:** 22/06/2022
+**Bolsistas:**
+
+![](./EEEP_Raimundo_Celio/1.jpeg)
+
+![](./EEEP_Raimundo_Celio/2.jpeg)
+
+![](./EEEP_Raimundo_Celio/3.jpeg)
+
+![](./EEEP_Raimundo_Celio/4.jpeg)
+
+![](./EEEP_Raimundo_Celio/5.jpeg)
+
+![](./EEEP_Raimundo_Celio/6.jpeg)
+
+![](./EEEP_Raimundo_Celio/7.jpeg)
+
+![](./EEEP_Raimundo_Celio/8.jpeg)
+
 
 
 ***
