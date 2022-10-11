@@ -1,13 +1,17 @@
 # Receba UFC
 
-Neste projeto, os bolsistas do PET-SI organizam uma recepção para alunos do ensino médio que querem conhecer o funcionamento da UFC - Campus de Quixadá. Participam do projeto todas as escolas que demonstrarem interesse, basta entrar em contato através do email do PET-SI e agendar o melhor horário de acordo com o que tiver disponível. Email pra contato: petufc.quixada@gmail.com 
+### Neste projeto, os bolsistas do PET-SI organizam uma recepção para alunos do ensino médio que querem conhecer o funcionamento da UFC - Campus de Quixadá. Participam do projeto todas as escolas que demonstrarem interesse, basta entrar em contato através do email do PET-SI e agendar o melhor horário de acordo com o que tiver disponível. Email pra contato: petufc.quixada@gmail.com 
 
 ***
-### EEEP Edson Queiroz
+## EEEP Edson Queiroz
+
+### Nessa visita, os bolsistas apresentaram o campus para todos os alunos, visitaram os laboratorios, salas de desenho, ateliê, bloco administrativo e o restaurante universitário. 
 
 ![](./EEEP_Edson_Queiroz/1.jpeg)
 
 ![](./EEEP_Edson_Queiroz/2.jpeg)
+
+### Logo após aconteceu uma breve apresentação na sala multiuso explicando sobre a UFC, foram apresentados as bolsas, atividades de extensão, auxílios, projetos que os calouros podem participar...
 
 ![](./EEEP_Edson_Queiroz/3.jpeg)
 
@@ -15,8 +19,7 @@ Neste projeto, os bolsistas do PET-SI organizam uma recepção para alunos do en
 
 ![](./EEEP_Edson_Queiroz/5.jpeg)
 
-
-
+### Os alunos visitantes se mostraram bem interessados com as instalações da nossa instituição, de acordo com o que foi percebido, a parte que eles mais se interessaram foi o laboratório de prototipação onde puderam observar as impressoras 3D trabalhando em um projeto do curso Desing Digital. 
 
 
 ***
