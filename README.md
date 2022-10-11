@@ -36,9 +36,9 @@
 
 ![](./EEEP_Raimundo_Celio/3.jpeg)
 
-![](./EEEP_Raimundo_Celio/4.jpeg)
-
 ### O coordenador do curso Sistemas de Informação Roberto Cabral deu uma pequena palestra para os alunos apresentando a instituição, no momento foi falado sobre expectativas, sonhos, resultados e objetivos que a Universidade Federal do Ceará deseja que os alunos alcancem. 
+
+![](./EEEP_Raimundo_Celio/4.jpeg)
 
 ![](./EEEP_Raimundo_Celio/5.jpeg)
 
