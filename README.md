@@ -43,6 +43,8 @@
 
 ![](./EEEP_Raimundo_Celio/5.jpeg)
 
+### Os alunos foram para a sala de desenho e encontraram veteranos estudando e pondo em prática seus conhecimentos, foram tiradas duvidas sobre assuntos que envolvem design e sobre a universidade em geral.
+
 ![](./EEEP_Raimundo_Celio/6.jpeg)
 
 ![](./EEEP_Raimundo_Celio/7.jpeg)
@@ -52,12 +54,11 @@
 
 
 ***
-### Escola de Ensino Médio Franklin Távora
+## Escola de Ensino Médio Franklin Távora
 
-**Público:**
-**Bolsista**:
+**Bolsistas**:
 * Vanessa Olivera
-* Léticia
+* Léticia Pinheiro
 
 ![](./EEM_Franklin_Tavora/1.jpeg)
 
@@ -70,13 +71,13 @@
 
 
 ***
-### Escola Nossa Senhora do Rosário
+## Escola Nossa Senhora do Rosário
 
 **Público:** 37 alunos
-**Bolsista**:
+**Bolsistas**:
 * Vanessa Olivera
-* Léticia
-* Marcos Túlio
+* Léticia Pinheiro
+* Marcus Túlio
 
 ![](./Colegio_Nossa_Senhora_do_Rosario/1.jpeg)
 
