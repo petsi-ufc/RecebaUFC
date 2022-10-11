@@ -26,7 +26,7 @@
 ***
 ## EEEP Raimundo Célio Rodrigues
 **Data:** 22/06/2022
-**Bolsistas:**
+**Bolsistas:** Marcus Tulio, Lucas Xavier, Vanessa Oliveira, Letícia Pinheiro, Camila Belmont. (Por ordem da foto).
 
 ### A visita da escola Raimundo Célio foi uma das mais marcantes, o professor que acompanhou a turma é um ex aluno da instituição, ele conta que se formou a pouco tempo no curso de Sistemas de Informação e por isso demonstrou interesse pelo projeto do PET-SI. 
 
