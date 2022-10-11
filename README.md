@@ -56,13 +56,20 @@
 ***
 ## Escola de Ensino Médio Franklin Távora
 
+**Data:** 16/09/2022
+**Público:** 90 alunos 
+
 **Bolsistas**:
 * Vanessa Olivera
 * Léticia Pinheiro
 
+## Nesse dia o público foi um pouco maior do que normalmente é, o tuor pela faculdade foi feito um pouco mais por cima pela grande quantidade de alunos e o tempo apertado, porém, apesar dos imprevistos a visita foi muito proveitosa.
+
 ![](./EEM_Franklin_Tavora/1.jpeg)
 
 ![](./EEM_Franklin_Tavora/2.jpeg)
+
+## A apresentação dos slides foi feita na sala de multiuso, os bolsistas apresentaram as oportunidades que o campus pode oferecer, bolsas de extensão, auxílios, laboratórios e o restaurante universitário. 
 
 ![](./EEM_Franklin_Tavora/3.jpeg)
 
@@ -73,11 +80,14 @@
 ***
 ## Escola Nossa Senhora do Rosário
 
+**Data:** 23/09/2022
 **Público:** 37 alunos
 **Bolsistas**:
 * Vanessa Olivera
 * Léticia Pinheiro
 * Marcus Túlio
+
+### A Escola Nossa Senhora do Rosário foi o menor público do nosso projeto, e de certa forma facilitou para que a gente conseguisse mostrar a instituição por completo, os alunos se mostraram bem interessados nas instalações da UFC.
 
 ![](./Colegio_Nossa_Senhora_do_Rosario/1.jpeg)
 
